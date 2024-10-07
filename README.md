@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @egyns10
+- 👀 Neural Networks and small utility coding projects
+- 🌱 UoN/LDN
+- 📫 egyns10
